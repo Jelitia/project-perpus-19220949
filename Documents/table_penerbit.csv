@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+penerbit,varchar(255),NO,,NULL,
+kota,varchar(80),YES,,NULL,
