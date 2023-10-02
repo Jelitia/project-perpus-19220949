@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+kategori,varchar(255),YES,,NULL,
+kode_ddc,varchar(10),YES,,NULL,
