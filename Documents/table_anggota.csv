@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+nama_lengkap,varchar(255),NO,,NULL,
+alamat,varchar(512),YES,,NULL,
+kota,varchar(70),YES,,NULL,
+notelp,varchar(18),YES,,NULL,
+email,varchar(255),YES,,NULL,
