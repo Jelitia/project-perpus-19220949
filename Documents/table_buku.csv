@@ -1,0 +1,12 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+tb_kategori_id,int,YES,MUL,NULL,
+tb_penerbit_id,int,YES,MUL,NULL,
+judul,varchar(512),NO,,NULL,
+edisi,varchar(10),YES,,NULL,
+cetakan,varchar(10),YES,,NULL,
+sinopsis,text,YES,,NULL,
+halaman,varchar(20),YES,,NULL,
+penulis,varchar(100),YES,,NULL,
+tahun,year,YES,,NULL,
+cover_file,varchar(512),YES,,NULL,
